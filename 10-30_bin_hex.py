@@ -236,4 +236,3 @@ Let's talk about hexadecimal.
 x = 0xdc9 # actually hex
 
 print(hex(x))
-
