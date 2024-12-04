@@ -80,7 +80,6 @@ def bubble_sort(the_list):
     swapped = True
     iteration = 0
     while swapped:
-        # print(the_list)
         swapped = False
         for i in range(len(the_list) - 1 - iteration):
             if the_list[i] > the_list[i + 1]:
